@@ -36,8 +36,12 @@
 - ➡️ Me gusta mucho crear aplicaciones para más comodidad y tener una organización mas eficiente.
 - ➡️ Aunque le dedico horas solamente, me gusta mucho aprender.<br><br>
 
-<h2 align="center">CV:</h2>
-<a align="center" href="https://github.com/RasthMaltar/CV/blob/main/Curriculum%20(1).pdf" target="_blank">
+<h2 align="center">Contactos y Curriculum</h2>
+<ul align="center">
+<a href="https://github.com/RasthMaltar/CV/blob/main/Curriculum%20(1).pdf" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Curriculum-black?style=for-the-badge&logoSize=amd&color=%23ff0000">
 </a>
-
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXPXTLVhcFBHqBNJkXMrhJnZJgSZdMRxQSdrGdFTLrmdSLgcCqWXxKsqqXvpCTvHTGqZL" target="new">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoSize=amd&color=%230896C6">
+</a>
+</ul>
