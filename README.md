@@ -37,7 +37,7 @@
 - ➡️ Aunque le dedico horas solamente, me gusta mucho aprender.<br><br>
 
 <h2 align="center">CV:</h2>
-<a align="center" href="https://docs.google.com/document/d/1Y27Gq-k2LKC7EA82yiT0zh6d4RzcKnMjjLrQri5WM9E/edit?usp=sharing" target="_blank">
+<a align="center" href="Curriculum%20(1).pdf" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Curriculum-black?style=for-the-badge&logoSize=amd&color=%23ff0000">
 </a>
 
