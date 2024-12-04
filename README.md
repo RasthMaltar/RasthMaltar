@@ -37,7 +37,7 @@
 - ➡️ Aunque le dedico horas solamente, me gusta mucho aprender.<br><br>
 
 <h2 align="center">CV:</h2>
-<a align="center" href="Curriculum%20(1).pdf" target="_blank">
+<a align="center" href="https://github.com/RasthMaltar/CV/blob/main/Curriculum%20(1).pdf" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Curriculum-black?style=for-the-badge&logoSize=amd&color=%23ff0000">
 </a>
 
